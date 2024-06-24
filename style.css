@@ -374,12 +374,25 @@ section .title::after{
 .skills-content .right .js::before{
     width: 80%;
 }
-.skills-content .right .php::before{
+.skills-content .right .NodeJS::before{
     width: 50%;
 }
 .skills-content .right .mysql::before{
-    width: 70%;
+    width: 50%;
 }
+.skills-content .right .Wordpress::before{
+    width: 80%;
+}
+.skills-content .right .C::before{
+    width: 65%;
+}
+.skills-content .right .Java::before{
+    width: 50%;
+}
+.skills-content .right .PHP::before{
+    width: 30%;
+}
+
 
 /* work section styling */
 .work .title::after{
